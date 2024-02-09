@@ -1,7 +1,9 @@
 # Mini-WebVision
 This project preprocess the Google images partition of [WebVision 1.0 Dataset](https://data.vision.ee.ethz.ch/cvl/webvision/dataset2017.html) to obtain Mini-WebVision dataset and gives a directory structure [ImageNet1k dataset](https://www.image-net.org/). 
 
-[Mini-WebVision](https://arxiv.org/abs/1911.09781) - contains about 61K Google images on the first 50 classes from the WebVision dataset.
+[Mini-WebVision](https://arxiv.org/abs/1911.09781) - contains about 61K Google images on the first 50 classes from the WebVision dataset. 
+- Number of train images - 61234
+- Number of val images - 2500 (50 per class)
 
 
 
